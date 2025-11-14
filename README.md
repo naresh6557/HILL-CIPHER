@@ -93,3 +93,5 @@ int main() {
 ## RESULT
 <img width="1688" height="902" alt="image" src="https://github.com/user-attachments/assets/535e7dc1-54bf-4cb2-9c43-d2461cf28e19" />
 
+## RESULT
+Thus,the program executed successfully.
